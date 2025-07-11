@@ -1,2 +1,2 @@
 # HTML
-HTML and CSS training
+HTML and CSS training. And some javascript :)
